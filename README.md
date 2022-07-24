@@ -1,4 +1,10 @@
-### Hi there 👋
+### Genzel Lab 👋
+
+![](https://komarev.com/ghpvc/?username=genzellab&color=blueviolet)
+
+<p>
+   <a href="https://twitter.com/genzellab" ><img src="https://badges.aleen42.com/src/twitter.svg" /></a>
+</p>
 
 <!--
 **genzellab/genzellab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
