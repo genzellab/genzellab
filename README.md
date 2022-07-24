@@ -1,6 +1,6 @@
-### Genzel Lab 👋
+### Genzel Lab :rat:
 
-![](https://komarev.com/ghpvc/?username=genzellab&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=genzellab&color=green)
 
 <p>
    <a href="https://twitter.com/genzellab" ><img src="https://badges.aleen42.com/src/twitter.svg" /></a>
